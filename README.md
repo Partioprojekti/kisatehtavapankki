@@ -4,3 +4,11 @@
 
 
 [Asiakastapaamisten muistiot](https://docs.google.com/document/d/15Tg06fPUYgvRrMpL6fHWVf3-a97sTT7bloVi6NU_ReU/edit?usp=sharing)
+
+
+[Frontend](https://github.com/partio-scout/kisapankki-frontend)
+
+
+[Backend](https://github.com/partio-scout/kisapankki-backend)
+
+
