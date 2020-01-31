@@ -3,7 +3,7 @@
 [Tiimin työtunnit](https://docs.google.com/spreadsheets/d/1sbSCFv57-0l0mHrz8O7aaN3qJKpvZln5gtoDaYR166g/edit?usp=sharing)
 
 
-[Sprintit](https://trello.com/partioprojekti)
+[Sprintit](https://github.com/Partioprojekti/kisatehtavapankki/blob/master/sprintit.md)
 
 
 [Backlog](https://trello.com/b/GRqUqb9j/kisapankki)
