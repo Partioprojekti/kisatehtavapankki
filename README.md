@@ -18,6 +18,6 @@
 [Backend](https://github.com/partio-scout/kisapankki-backend)
 
 
-[Heroku](https://guarded-oasis-25037.herokuapp.com)
+[Heroku](https://kisapankki-staging.herokuapp.com)
 
 
